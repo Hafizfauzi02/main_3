@@ -21,7 +21,3 @@ public class Cart {
     }
 }
 
-@Override
-public void initialize(URL url, ResourceBundle resourceBundle) {
-    
-}
